@@ -1,0 +1,11 @@
+.form-control:focus{
+    z-index: 5;
+}
+.form-control{
+    margin-bottom: 20px;
+}
+.bootstrap-logo{
+
+    width: 150px;
+    height: 150px;
+}
